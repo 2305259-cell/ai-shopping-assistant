@@ -1,0 +1,32 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 60000,
+    "category": "phone",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Samsung Galaxy",
+    "price": 45000,
+    "category": "phone",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Realme Narzo",
+    "price": 15000,
+    "category": "phone",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Nike Shoes",
+    "price": 3000,
+    "category": "shoes",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "Adidas Shoes",
+    "price": 2500,
+    "category": "shoes",
+    "image": "https://via.placeholder.com/100"
+  }
+]
